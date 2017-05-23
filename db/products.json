@@ -1,0 +1,111 @@
+{
+    "products": [
+             {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers0",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{        
+            "id": 1,
+            "type": 0,
+            "name": "Fairy Sparklers1",
+            "description": "Multi-colored sparklers that are safe for any age." 
+        },{
+       
+            "id": 2,
+            "type": 0,
+            "name": "Fairy Sparklers2",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+       
+            "id": 3,
+            "type": 1,
+            "name": "Fairy Sparklers3",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+      
+            "id": 4,
+            "type": 1,
+            "name": "Fairy Sparklers4",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+       
+            "id": 5,
+            "type": 1,
+            "name": "Fairy Sparklers5",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+      
+            "id": 6,
+            "type": 2,
+            "name": "Fairy Sparklers6",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+     
+            "id": 7,
+            "type": 2,
+            "name": "Fairy Sparklers7",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+ 
+            "id": 8,
+            "type": 2,
+            "name": "Fairy Sparklers8",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+   
+            "id": 9,
+            "type": 3,
+            "name": "Fairy Sparklers9",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+     
+            "id": 10,
+            "type": 3,
+            "name": "Fairy Sparklers10",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+    
+            "id": 11,
+            "type": 3,
+            "name": "Fairy Sparklers11",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+ 
+            "id": 12,
+            "type": 4,
+            "name": "Fairy Sparklers12",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+    
+            "id": 13,
+            "type": 4,
+            "name": "Fairy Sparklers13",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+     
+            "id": 14,
+            "type": 4,
+            "name": "Fairy Sparklers14",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+    
+            "id": 15,
+            "type": 5,
+            "name": "Fairy Sparklers15",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+     
+            "id": 16,
+            "type": 5,
+            "name": "Fairy Sparklers16",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },{
+      
+            "id": 17,
+            "type": 5,
+            "name": "Fairy Sparklers17",
+            "description": "Multi-colored sparklers that are safe for any age."
+        }
+    ]
+}

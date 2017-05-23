@@ -1,0 +1,9 @@
+#fireworks:hover,
+#demolition:hover {
+	background-color: blue;
+	color: white;
+}
+ 
+.thumbnail {
+	display:inline-block;
+}
